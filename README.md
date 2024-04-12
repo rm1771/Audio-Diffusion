@@ -1,0 +1,2 @@
+# Audio Sample Generation Using Diffusion Models
+Using a similar process typically implemented to achieve image generation, we would like to create a model that generates samples of audio based on prompt. This could be useful for audio engineers and music producers
